@@ -42,3 +42,5 @@
 | [[https://thunderstore.io/c/valheim/p/Advize/PlantEasily/][Plant Easily]]                          | [[https://thunderstore.io/package/download/Advize/PlantEasily/1.9.2/][1.9.2]]    |
 | [[https://thunderstore.io/c/valheim/p/Azumatt/FastLink/][FastLink]]                              | [[https://thunderstore.io/package/download/Azumatt/FastLink/1.4.3/][1.4.3]]    |
 | [[https://www.nexusmods.com/valheim/mods/2798?tab=description][Movable Chest Inventory]]               | [[https://www.nexusmods.com/valheim/mods/2798?tab=files&file_id=16890][unnamed]]  |
+| [[https://www.nexusmods.com/valheim/mods/2798?tab=description][Show Container Contents]]               | [[https://www.nexusmods.com/valheim/mods/2798?tab=files&file_id=16911][unnamed]]  |
+
