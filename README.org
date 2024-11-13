@@ -12,4 +12,5 @@
 | [[https://thunderstore.io/c/valheim/p/Azumatt/AzuExtendedPlayerInventory/][AzuExtendedPlayerInventory]]                   | [[https://thunderstore.io/package/download/Azumatt/AzuExtendedPlayerInventory/1.4.6/][1.4.6]]    |
 | [[https://thunderstore.io/c/valheim/p/Azumatt/AzuContainerSizes/][AzuContainerSizes]]                            | [[https://thunderstore.io/package/download/Azumatt/AzuContainerSizes/1.1.0/][1.1.0]]    |
 | [[https://www.nexusmods.com/valheim/mods/2787][Auto Feed]]                                    | [[https://www.nexusmods.com/valheim/mods/2787?tab=files&file_id=16809][0.8.3]]    |
+| [[https://thunderstore.io/c/valheim/p/GemHunter1/NoAFKEvents/][No AFK Events]]                                | [[https://thunderstore.io/package/download/GemHunter1/NoAFKEvents/1.0.2/][1.0.2]]    |
 
