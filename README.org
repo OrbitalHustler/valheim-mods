@@ -38,3 +38,4 @@
 
 | Mod (Client only)                     | Version  |
 | [[https://www.nexusmods.com/valheim/mods/2323?tab=description][ValheimPlus + BepInEx (WindowsClient)]] | [[https://github.com/Grantapher/ValheimPlus/releases/download/0.9.15.0/WindowsClient.zip][0.9.15.0]] |
+| [[https://thunderstore.io/c/valheim/p/Azumatt/Official_BepInEx_ConfigurationManager/][Official BepInEx ConfigurationManager]] | [[https://thunderstore.io/package/download/Azumatt/Official_BepInEx_ConfigurationManager/18.3.0/][18.3.0]]   |
