@@ -9,3 +9,4 @@
 | [[https://www.nexusmods.com/valheim/mods/2236?tab=description][Elden Ring Stamina]]                           | [[https://www.nexusmods.com/valheim/mods/2236?tab=files&file_id=11217][1.0.0]]    |
 | [[https://www.nexusmods.com/valheim/mods/2094][Quick Stack - Store - Sort - Trash - Restock]] | [[https://www.nexusmods.com/valheim/mods/2094?tab=files&file_id=18154][1.4.11]]   |
 | [[https://thunderstore.io/c/valheim/p/MSchmoecker/MultiUserChest/][Multi User Chest]]                             | [[https://thunderstore.io/package/download/MSchmoecker/MultiUserChest/0.6.0/][0.6.0]]    |
+| [[https://thunderstore.io/c/valheim/p/Azumatt/AzuExtendedPlayerInventory/][AzuExtendedPlayerInventory]]                   | [[https://thunderstore.io/package/download/Azumatt/AzuExtendedPlayerInventory/1.4.6/][1.4.6]]    |
