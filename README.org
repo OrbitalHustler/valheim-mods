@@ -2,5 +2,6 @@
 * Branches
 - windows-client-0.219.14
 * Mods list
-| Mod | Version |
-|-----+---------|
+| Mod                                          | Version  |
+|----------------------------------------------+----------|
+| [[https://thunderstore.io/c/valheim/p/ValheimModding/Jotunn/][Jotunn]]                                       | [[https://thunderstore.io/package/download/ValheimModding/Jotunn/2.21.3/][2.21.3]]   |
