@@ -16,3 +16,4 @@
 | [[https://thunderstore.io/c/valheim/p/Therzie/Monstrum/][Therzie Monstrum]]                             | [[https://thunderstore.io/package/download/Therzie/Monstrum/1.4.6/][1.4.6]]    |
 | [[https://thunderstore.io/c/valheim/p/Therzie/Armory/][Therzie Armory]]                               | [[https://thunderstore.io/package/download/Therzie/Armory/1.2.8/][1.2.8]]    |
 | [[https://thunderstore.io/c/valheim/p/Therzie/Warfare/][Therzie Warfare]]                              | [[https://thunderstore.io/package/download/Therzie/Warfare/1.8.2/][1.8.2]]    |
+| [[https://thunderstore.io/c/valheim/p/Therzie/Wizardry/][Therzie Wizardry]]                             | [[https://thunderstore.io/package/download/Therzie/Wizardry/1.1.4/][1.1.4]]    |
