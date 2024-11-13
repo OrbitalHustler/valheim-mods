@@ -36,6 +36,7 @@
 | [[https://thunderstore.io/c/valheim/p/Azumatt/Build_Camera_Custom_Hammers_Edition/][Build Camera Custom Hammers Edition]]          | [[https://thunderstore.io/package/download/Azumatt/Build_Camera_Custom_Hammers_Edition/1.2.5/][1.2.5]]   |
 | [[https://thunderstore.io/c/valheim/p/Azumatt/Marketplace_Signs/][Marketplace Signs]]                            | [[https://thunderstore.io/package/download/Azumatt/Marketplace_Signs/1.1.4/][1.1.4]]   |
 
+
 | Mod (Client only)                     | Version  |
 | [[https://www.nexusmods.com/valheim/mods/2323?tab=description][ValheimPlus + BepInEx (WindowsClient)]] | [[https://github.com/Grantapher/ValheimPlus/releases/download/0.9.15.0/WindowsClient.zip][0.9.15.0]] |
 | [[https://thunderstore.io/c/valheim/p/Azumatt/Official_BepInEx_ConfigurationManager/][Official BepInEx ConfigurationManager]] | [[https://thunderstore.io/package/download/Azumatt/Official_BepInEx_ConfigurationManager/18.3.0/][18.3.0]]   |
@@ -43,4 +44,4 @@
 | [[https://thunderstore.io/c/valheim/p/Azumatt/FastLink/][FastLink]]                              | [[https://thunderstore.io/package/download/Azumatt/FastLink/1.4.3/][1.4.3]]    |
 | [[https://www.nexusmods.com/valheim/mods/2798?tab=description][Movable Chest Inventory]]               | [[https://www.nexusmods.com/valheim/mods/2798?tab=files&file_id=16890][unnamed]]  |
 | [[https://www.nexusmods.com/valheim/mods/2798?tab=description][Show Container Contents]]               | [[https://www.nexusmods.com/valheim/mods/2798?tab=files&file_id=16911][unnamed]]  |
-
+| [[https://thunderstore.io/c/valheim/p/MSchmoecker/VNEI/][VNEI - Valheim Not Enough Items]]       | [[https://thunderstore.io/package/download/MSchmoecker/VNEI/0.15.4/][0.15.4]]   |
