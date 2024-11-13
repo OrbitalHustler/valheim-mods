@@ -5,3 +5,4 @@
 | Mod                                          | Version  |
 |----------------------------------------------+----------|
 | [[https://thunderstore.io/c/valheim/p/ValheimModding/Jotunn/][Jotunn]]                                       | [[https://thunderstore.io/package/download/ValheimModding/Jotunn/2.21.3/][2.21.3]]   |
+| [[https://thunderstore.io/c/valheim/p/Advize/PlantEverything/][Plant Everything]]                             | [[https://thunderstore.io/package/download/Advize/PlantEverything/1.18.2/][1.18.2]]   |
