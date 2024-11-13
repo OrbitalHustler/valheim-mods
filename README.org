@@ -1,6 +1,7 @@
 #+title: Valheim Mods
 * Branches
-- windows-client-0.219.14
+- client-0.219.14-windows-client
+- client-0.219.14-linux-server
 * Mods list
 | Mod                                          | Version  |
 |----------------------------------------------+----------|
