@@ -26,3 +26,4 @@
 | [[https://thunderstore.io/c/valheim/p/Azumatt/SleepSkip/][SleepSkip]]                                    | [[https://thunderstore.io/c/valheim/p/Azumatt/SleepSkip/][1.2.1]]   |
 | [[https://thunderstore.io/c/valheim/p/shudnal/StaminaExtended/][StaminaExtended]]                              | [[https://thunderstore.io/package/download/shudnal/StaminaExtended/1.0.5/][1.0.5]]   |
 | [[https://thunderstore.io/c/valheim/p/VentureValheim/Pathside_Assistance/][Pathside Assistance]]                          | [[https://thunderstore.io/package/download/VentureValheim/Pathside_Assistance/0.2.3/][0.2.3]]   |
+| [[https://thunderstore.io/c/valheim/p/VentureValheim/Venture_Location_Reset/][Venture Location Reset]]                       | [[https://thunderstore.io/package/download/VentureValheim/Venture_Location_Reset/0.10.1/][0.10.1]]  |
