@@ -23,3 +23,4 @@
 | [[https://thunderstore.io/c/valheim/p/coemt/StumpsAreOneHp/][StumpsAreOneHp]]                               | [[https://thunderstore.io/package/download/coemt/StumpsAreOneHp/0.0.1/][0.0.1]]   |
 | [[https://thunderstore.io/c/valheim/p/OdinPlus/TeleportEverything/][TeleportEverything]]                           | [[https://thunderstore.io/package/download/OdinPlus/TeleportEverything/2.7.0/][2.7.0]]   |
 | [[https://thunderstore.io/c/valheim/p/TastyChickenLegs/BlastFurnaceTakesAll/][BlastFurnaceTakesAll]]                         | [[https://thunderstore.io/package/download/TastyChickenLegs/BlastFurnaceTakesAll/1.0.9/][1.0.9]]   |
+| [[https://thunderstore.io/c/valheim/p/Azumatt/SleepSkip/][SleepSkip]]                                    | [[https://thunderstore.io/c/valheim/p/Azumatt/SleepSkip/][1.2.1]]   |
