@@ -3,18 +3,19 @@
 - client-0.219.14-windows-client
 - client-0.219.14-linux-server
 * Mods list
-| Mod                                          | Version  |
-|----------------------------------------------+----------|
-| [[https://thunderstore.io/c/valheim/p/ValheimModding/Jotunn/][Jotunn]]                                       | [[https://thunderstore.io/package/download/ValheimModding/Jotunn/2.21.3/][2.21.3]]   |
-| [[https://thunderstore.io/c/valheim/p/Advize/PlantEverything/][Plant Everything]]                             | [[https://thunderstore.io/package/download/Advize/PlantEverything/1.18.2/][1.18.2]]   |
-| [[https://www.nexusmods.com/valheim/mods/2236?tab=description][Elden Ring Stamina]]                           | [[https://www.nexusmods.com/valheim/mods/2236?tab=files&file_id=11217][1.0.0]]    |
-| [[https://www.nexusmods.com/valheim/mods/2094][Quick Stack - Store - Sort - Trash - Restock]] | [[https://www.nexusmods.com/valheim/mods/2094?tab=files&file_id=18154][1.4.11]]   |
-| [[https://thunderstore.io/c/valheim/p/MSchmoecker/MultiUserChest/][Multi User Chest]]                             | [[https://thunderstore.io/package/download/MSchmoecker/MultiUserChest/0.6.0/][0.6.0]]    |
-| [[https://thunderstore.io/c/valheim/p/Azumatt/AzuExtendedPlayerInventory/][AzuExtendedPlayerInventory]]                   | [[https://thunderstore.io/package/download/Azumatt/AzuExtendedPlayerInventory/1.4.6/][1.4.6]]    |
-| [[https://thunderstore.io/c/valheim/p/Azumatt/AzuContainerSizes/][AzuContainerSizes]]                            | [[https://thunderstore.io/package/download/Azumatt/AzuContainerSizes/1.1.0/][1.1.0]]    |
-| [[https://www.nexusmods.com/valheim/mods/2787][Auto Feed]]                                    | [[https://www.nexusmods.com/valheim/mods/2787?tab=files&file_id=16809][0.8.3]]    |
-| [[https://thunderstore.io/c/valheim/p/GemHunter1/NoAFKEvents/][No AFK Events]]                                | [[https://thunderstore.io/package/download/GemHunter1/NoAFKEvents/1.0.2/][1.0.2]]    |
-| [[https://thunderstore.io/c/valheim/p/Therzie/Monstrum/][Therzie Monstrum]]                             | [[https://thunderstore.io/package/download/Therzie/Monstrum/1.4.6/][1.4.6]]    |
-| [[https://thunderstore.io/c/valheim/p/Therzie/Armory/][Therzie Armory]]                               | [[https://thunderstore.io/package/download/Therzie/Armory/1.2.8/][1.2.8]]    |
-| [[https://thunderstore.io/c/valheim/p/Therzie/Warfare/][Therzie Warfare]]                              | [[https://thunderstore.io/package/download/Therzie/Warfare/1.8.2/][1.8.2]]    |
-| [[https://thunderstore.io/c/valheim/p/Therzie/Wizardry/][Therzie Wizardry]]                             | [[https://thunderstore.io/package/download/Therzie/Wizardry/1.1.4/][1.1.4]]    |
+| Mod                                          | Version |
+|----------------------------------------------+---------|
+| [[https://thunderstore.io/c/valheim/p/ValheimModding/Jotunn/][Jotunn]]                                       | [[https://thunderstore.io/package/download/ValheimModding/Jotunn/2.21.3/][2.21.3]]  |
+| [[https://thunderstore.io/c/valheim/p/Advize/PlantEverything/][Plant Everything]]                             | [[https://thunderstore.io/package/download/Advize/PlantEverything/1.18.2/][1.18.2]]  |
+| [[https://www.nexusmods.com/valheim/mods/2236?tab=description][Elden Ring Stamina]]                           | [[https://www.nexusmods.com/valheim/mods/2236?tab=files&file_id=11217][1.0.0]]   |
+| [[https://www.nexusmods.com/valheim/mods/2094][Quick Stack - Store - Sort - Trash - Restock]] | [[https://www.nexusmods.com/valheim/mods/2094?tab=files&file_id=18154][1.4.11]]  |
+| [[https://thunderstore.io/c/valheim/p/MSchmoecker/MultiUserChest/][Multi User Chest]]                             | [[https://thunderstore.io/package/download/MSchmoecker/MultiUserChest/0.6.0/][0.6.0]]   |
+| [[https://thunderstore.io/c/valheim/p/Azumatt/AzuExtendedPlayerInventory/][AzuExtendedPlayerInventory]]                   | [[https://thunderstore.io/package/download/Azumatt/AzuExtendedPlayerInventory/1.4.6/][1.4.6]]   |
+| [[https://thunderstore.io/c/valheim/p/Azumatt/AzuContainerSizes/][AzuContainerSizes]]                            | [[https://thunderstore.io/package/download/Azumatt/AzuContainerSizes/1.1.0/][1.1.0]]   |
+| [[https://www.nexusmods.com/valheim/mods/2787][Auto Feed]]                                    | [[https://www.nexusmods.com/valheim/mods/2787?tab=files&file_id=16809][0.8.3]]   |
+| [[https://thunderstore.io/c/valheim/p/GemHunter1/NoAFKEvents/][No AFK Events]]                                | [[https://thunderstore.io/package/download/GemHunter1/NoAFKEvents/1.0.2/][1.0.2]]   |
+| [[https://thunderstore.io/c/valheim/p/Therzie/Monstrum/][Therzie Monstrum]]                             | [[https://thunderstore.io/package/download/Therzie/Monstrum/1.4.6/][1.4.6]]   |
+| [[https://thunderstore.io/c/valheim/p/Therzie/Armory/][Therzie Armory]]                               | [[https://thunderstore.io/package/download/Therzie/Armory/1.2.8/][1.2.8]]   |
+| [[https://thunderstore.io/c/valheim/p/Therzie/Warfare/][Therzie Warfare]]                              | [[https://thunderstore.io/package/download/Therzie/Warfare/1.8.2/][1.8.2]]   |
+| [[https://thunderstore.io/c/valheim/p/Therzie/Wizardry/][Therzie Wizardry]]                             | [[https://thunderstore.io/package/download/Therzie/Wizardry/1.1.4/][1.1.4]]   |
+| [[https://thunderstore.io/c/valheim/p/blacks7ar/Hunting/][Hunting]]                                      | [[https://thunderstore.io/package/download/blacks7ar/Hunting/1.3.6/][1.3.6]]   |
