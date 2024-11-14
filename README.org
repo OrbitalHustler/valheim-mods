@@ -25,3 +25,4 @@
 | [[https://thunderstore.io/c/valheim/p/TastyChickenLegs/BlastFurnaceTakesAll/][BlastFurnaceTakesAll]]                         | [[https://thunderstore.io/package/download/TastyChickenLegs/BlastFurnaceTakesAll/1.0.9/][1.0.9]]   |
 | [[https://thunderstore.io/c/valheim/p/Azumatt/SleepSkip/][SleepSkip]]                                    | [[https://thunderstore.io/c/valheim/p/Azumatt/SleepSkip/][1.2.1]]   |
 | [[https://thunderstore.io/c/valheim/p/shudnal/StaminaExtended/][StaminaExtended]]                              | [[https://thunderstore.io/package/download/shudnal/StaminaExtended/1.0.5/][1.0.5]]   |
+| [[https://thunderstore.io/c/valheim/p/VentureValheim/Pathside_Assistance/][Pathside Assistance]]                          | [[https://thunderstore.io/package/download/VentureValheim/Pathside_Assistance/0.2.3/][0.2.3]]   |
