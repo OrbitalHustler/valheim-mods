@@ -52,3 +52,5 @@
 | [[https://thunderstore.io/c/valheim/p/Azumatt/ILoxYou/][ILoxYou]]                               | [[https://thunderstore.io/package/download/Azumatt/ILoxYou/1.0.7/][1.0.7]]    |
 | [[https://thunderstore.io/c/valheim/p/Azumatt/ModAge/][ModAge]]                                | [[https://thunderstore.io/package/download/Azumatt/ModAge/1.0.6/][1.0.6]]    |
 | [[https://thunderstore.io/c/valheim/p/Azumatt/ItemCompare/][ItemCompare]]                           | [[https://thunderstore.io/package/download/Azumatt/ItemCompare/1.0.5/][1.0.5]]    |
+| [[https://thunderstore.io/c/valheim/p/Azumatt/Object_Ping/][Object Ping]]                           | [[https://thunderstore.io/package/download/Azumatt/Object_Ping/2.0.7/][2.0.7]]    |
+| [[https://thunderstore.io/c/valheim/p/Azumatt/SaveCrossbowState/][SaveCrossbowState]]                     | [[https://thunderstore.io/package/download/Azumatt/SaveCrossbowState/1.0.1/][1.0.1]]    |
