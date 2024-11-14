@@ -49,3 +49,4 @@
 | [[https://thunderstore.io/c/valheim/p/Azumatt/ResourceUnloadOptimizer/][ResourceUnloadOptimizer]]               | [[https://thunderstore.io/package/download/Azumatt/ResourceUnloadOptimizer/1.0.4/][1.0.4]]    |
 | [[https://thunderstore.io/c/valheim/p/Azumatt/MouseTweaks/][MouseTweaks]]                           | [[https://thunderstore.io/package/download/Azumatt/MouseTweaks/1.0.2/][1.0.2]]    |
 | [[https://thunderstore.io/c/valheim/p/Azumatt/SearchableBuildMenu/][SearchableBuildMenu]]                   | [[https://thunderstore.io/package/download/Azumatt/SearchableBuildMenu/1.0.3/][1.0.3]]    |
+| [[https://thunderstore.io/c/valheim/p/Azumatt/ILoxYou/][ILoxYou]]                               | [[https://thunderstore.io/package/download/Azumatt/ILoxYou/1.0.7/][1.0.7]]    |
