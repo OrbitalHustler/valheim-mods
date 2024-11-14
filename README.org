@@ -51,3 +51,4 @@
 | [[https://thunderstore.io/c/valheim/p/Azumatt/SearchableBuildMenu/][SearchableBuildMenu]]                   | [[https://thunderstore.io/package/download/Azumatt/SearchableBuildMenu/1.0.3/][1.0.3]]    |
 | [[https://thunderstore.io/c/valheim/p/Azumatt/ILoxYou/][ILoxYou]]                               | [[https://thunderstore.io/package/download/Azumatt/ILoxYou/1.0.7/][1.0.7]]    |
 | [[https://thunderstore.io/c/valheim/p/Azumatt/ModAge/][ModAge]]                                | [[https://thunderstore.io/package/download/Azumatt/ModAge/1.0.6/][1.0.6]]    |
+| [[https://thunderstore.io/c/valheim/p/Azumatt/ItemCompare/][ItemCompare]]                           | [[https://thunderstore.io/package/download/Azumatt/ItemCompare/1.0.5/][1.0.5]]    |
