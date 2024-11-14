@@ -30,3 +30,4 @@
 | [[https://thunderstore.io/c/valheim/p/Azumatt/DeathPinRemoval/][DeathPinRemoval]]                              | [[https://thunderstore.io/package/download/Azumatt/DeathPinRemoval/1.0.5/][1.0.5]]   |
 | [[https://thunderstore.io/c/valheim/p/Searica/FortifySkillsRedux/][FortifySkillsRedux]]                           | [[https://thunderstore.io/package/download/Searica/FortifySkillsRedux/1.3.0/][1.3.0]]   |
 | [[https://thunderstore.io/c/valheim/p/JereKuusela/Server_devcommands/][Server devcommands]]                           | [[https://thunderstore.io/package/download/JereKuusela/Server_devcommands/1.86.0/][1.86.0]]  |
+| [[https://thunderstore.io/c/valheim/p/Azumatt/Third_Eye/][Third Eye]]                                    | [[https://thunderstore.io/package/download/Azumatt/Third_Eye/2.1.7/][2.1.7]]   |
