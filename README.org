@@ -46,3 +46,5 @@
 | [[https://www.nexusmods.com/valheim/mods/2798?tab=description][Show Container Contents]]               | [[https://www.nexusmods.com/valheim/mods/2798?tab=files&file_id=16911][unnamed]]  |
 | [[https://thunderstore.io/c/valheim/p/MSchmoecker/VNEI/][VNEI - Valheim Not Enough Items]]       | [[https://thunderstore.io/package/download/MSchmoecker/VNEI/0.15.4/][0.15.4]]   |
 | [[https://thunderstore.io/c/valheim/p/Azumatt/ImFRIENDLY_DAMMIT/][ImFRIENDLY DAMMIT]]                     | [[https://thunderstore.io/package/download/Azumatt/ImFRIENDLY_DAMMIT/1.1.8/][1.1.8]]    |
+| [[https://thunderstore.io/c/valheim/p/Azumatt/ResourceUnloadOptimizer/][ResourceUnloadOptimizer]]               | [[https://thunderstore.io/package/download/Azumatt/ResourceUnloadOptimizer/1.0.4/][1.0.4]]    |
+| [[https://thunderstore.io/c/valheim/p/Azumatt/MouseTweaks/][MouseTweaks]]                           | [[https://thunderstore.io/package/download/Azumatt/MouseTweaks/1.0.2/][1.0.2]]    |
